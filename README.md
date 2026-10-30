@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Herbert Gonçalves 👋
 
-<!--
-**herbert-goncalves-tech/herbert-goncalves-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Analista de Infraestrutura, Redes & Integrador de Soluções com IA
 
-Here are some ideas to get you started:
+Atuo no ponto de encontro entre **Infraestrutura de TI**, **Redes Corporativas** e **Automação Inteligente**. Desenvolvo soluções que eliminam gargalos operacionais e conectam sistemas antigos a interfaces modernas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+- **Infraestrutura & Redes:** Linux (Ubuntu/Debian), Docker, MikroTik RouterOS v7, VLANs, VPNs (WireGuard/OpenVPN), Servidores Locais.
+- **Automação & Programação:** Python, APIs REST, Node.js, Shell Script, n8n, Workflows e Scripts de Monitoramento.
+- **Inteligência Artificial & Dados:** Orquestração Multi-Modelos, Arquitetura RAG (Retrieval-Augmented Generation), Gateways de IA e Agentes de Suporte.
+
+---
+
+### 📌 Projetos em Destaque
+
+#### 🤖 Super AI — Gateway Multi-Modelo & Orquestrador Inteligente
+* **Descrição:** Plataforma de integração e orquestração de IA com fallbacks automáticos entre múltiplos provedores e RAG local para suporte operacional rápido.
+* **Problema Resolvido:** Redução drástica do tempo de resposta em consultas operacionais e continuidade do serviço sem dependência de um único fornecedor de IA.
+* **Tech Stack:** Python, APIs, Docker, RAG Local.
+
+---
+
+📫 **Vamos conversar?**
+- LinkedIn: [linkedin.com/in/herbert-gonçalves](https://br.linkedin.com/in/herbert-gon%C3%A7alves)
